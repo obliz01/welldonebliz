@@ -1,0 +1,82 @@
+ body,
+ html {
+	font-family: Hind Siliguri,Helvetica,Arial,sans-serif;
+	font-size: 18px;
+	line-height: 1.42857;
+	color: blue ;
+	background: url(2image.jpg);
+	background-size: cover;
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+.navbar-custom .navbar-text{
+	color: white;
+}
+
+body {
+	margin: 0;
+	display: block;
+}
+
+h1{
+	font-size: 3rem;
+	color: white;
+}
+
+p {
+	font-size: 2rem;
+	color: black;
+}
+
+h2 {
+	font-size: 3rem;
+}
+
+.buffer {
+	height: 5rem;
+}
+
+.btn{
+	font-weight: 700;
+	border-color: white;
+	padding: 14px 22px;
+	font-size: 23px;
+	line-height: 1.33333;
+	border-radius: 4px;
+
+	
+
+}
+
+
+.carousel-inner {
+	transition-property: opacity;
+	max-width: 100%
+	height:auto;
+	line-height: 1;
+	opacity: 1;
+
+}
+
+.carousel-fade{
+	transition-property: opacity;
+}
+
+img {
+	width: 200px;
+	height: 400px;
+	vertical-align: middle;
+	border: 0;
+
+}
+
+
+
+
+
+
+ 

@@ -1,0 +1,42 @@
+body,
+ html {
+	font-family: Hind Siliguri,Helvetica,Arial,sans-serif;
+	font-size: 18px;
+	line-height: 1.42857;
+	margin-top: 5px;
+	background: url(2image.jpg);
+	background-size: cover;
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+img {
+	height: 450px;
+	width: 300px;
+	float: center
+	margin: 10px;
+	transition: all 1s;
+	margin: 10px;
+}
+
+img:hover {
+	transform: scale(1.1);
+}
+
+h1{
+	font-size: 3rem;
+	color: white;
+}
+
+p {
+	font-size: 2rem;
+	color: black;
+}
+
+.section-container {
+	
+	justify-content: center;
+}
